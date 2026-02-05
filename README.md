@@ -11,4 +11,4 @@ This projects analyze pangenomes of salmonella and identifies MGE using k-mer co
 -scikit-learn
 
 # kmer Extraction and frequency profiling.
-Whole genomic Sequence has been taken from 
+Whole genomic Sequence of Salmonella entrica including chromosome,phage and plasmid has been used in this project. The genomic sequence of kmer-21 has been choosen on the basis of data profiling.
